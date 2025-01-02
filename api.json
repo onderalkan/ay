@@ -1,2 +1,5 @@
-{"response_code":0,"results":[{"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 1?","correct_answer":"d","incorrect_answers":["y1","y2","y3"]}]}
-{"response_code":0,"results":[{"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 2?","correct_answer":"d","incorrect_answers":["y1","y2","y3"]}]}
+{"response_code":0,"results":[
+  {"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 1?","correct_answer":"d","incorrect_answers":["y1","y2","y3"],
+  {"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 2?","correct_answer":"d","incorrect_answers":["y1","y2","y3"]
+}]}
+
