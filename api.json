@@ -1,5 +1,11 @@
 {"response_code":0,"results":[
-  {"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 1?","correct_answer":"d","incorrect_answers":["y1","y2","y3"],
-  {"type":"multiple","difficulty":"medium","category":"Geography","question":"Soru 2?","correct_answer":"d","incorrect_answers":["y1","y2","y3"]
-}}
-
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 1","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 2","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 3","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 4","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 5","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 6","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 7","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 8","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 9","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
+{"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 10","correct_answer":"d","incorrect_answers":["y1","y2","y3"]}]}
