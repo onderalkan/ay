@@ -1,4 +1,4 @@
-{"response_code":0,"results":[
+{"response_code":10,"results":[
 {"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 1","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
 {"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 2","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
 {"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Soru 3","correct_answer":"d","incorrect_answers":["y1","y2","y3"]},
